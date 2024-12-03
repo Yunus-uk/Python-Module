@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Datasets/linkedin_job_postings.csv filter=lfs diff=lfs merge=lfs -text
