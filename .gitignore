@@ -29,7 +29,6 @@
 *.rar
 *.mp4
 *.pdf
-
 *.csv
 Datasets/linkedin_job_postings.csv
 Datasets/
